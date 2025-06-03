@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Ignacio Vega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px height=300px alt="Unicorn" src="https://i.imgflip.com/67hzp6.png" />
+<img align="right" width=300px height=380px alt="Unicorn" src="https://i.imgflip.com/67hzp6.png" />
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***Sobre mí***
 
