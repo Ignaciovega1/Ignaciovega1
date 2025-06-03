@@ -11,6 +11,7 @@ análisis de datos, pero con disposición para ampliar conocimientos en diversas
 - :technologist: Todas las ganas de colaborar con soluciones innovadoras y de calidad.
 - :student: Comprometido con la responsabilidad, el cumplimiento de metas y la creación de un ambiente laboral positivo. 
 - Fuera de la tecnología, me encantan los videojuegos, escuchar música, ver películas/series/animes, leer novelas/comics/mangas y hacer ejercicio Gym/House.
+  <br>
 
 <h4> Languages </h4>
 <span> 
