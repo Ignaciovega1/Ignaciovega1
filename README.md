@@ -4,13 +4,11 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Estudiante de Ingeniería en Informática egresado, con gran entusiasmo por el aprendizaje continuo y la resolución de desafíos tecnológicos. Apasionado por el desarrollo Front-End, Bases de datos y 
+análisis de datos, pero con disposición para ampliar conocimientos en diversas áreas de la informática con el fin de alcanzar los objetivos del equipo de trabajo.
+
+- :nerd_face: Dispuesto a mejorar y aprender todas las tecnologías posibles, "el conocimiento es poder".
+- :technologist: Todas las ganas de colaborar con soluciones innovadoras y de calidad.
+- :student: Comprometido con la responsabilidad, el cumplimiento de metas y la creación de un ambiente laboral positivo. 
+- Fuera de la tecnología, me encantan los videojuegos, escuchar música, ver películas/series/animes, leer novelas/comics/mangas y hacer ejercicio Gym/House.
 
